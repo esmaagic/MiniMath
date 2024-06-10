@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniMath</string>
+    <string name="round">Runda: %d</string>
+    <string name="score">Bodovi: %d</string>
+    <string name="restart">Igraj ponovo </string>
+    <string name="play_again">Sljedeca runda </string>
+    <string name="timer">Vrijeme:  %d s</string>
+    <string name="game_stats">Status igre</string>
+    <string name="answer">Odgovor</string>
+    <string name="start_game">Zapocni igru</string>
+    <string name="game_rules">Pravila igre</string>
+    <string name="correct_answer">Tacno!</string>
+    <string name="incorrect_answer">Netacno!</string>
+    <string name="new_game_stats">Status igre</string>
+    <string name="game_rules_text">Kada kliknete na "Započni igru", bićete preusmjereni na ekran igre. Biće vam prikazana dva broja s odgovarajućom matematičkom operacijom. Tajmer će odmah početi teći i neće stati dok ne date tačan odgovor. Kada date tačan odgovor, tajmer će se zaustaviti. Tada možete nastaviti igrati klikom na "Sledeća runda" ili možete početi iznova klikom na "Ponovo pokreni". Da biste podijelili statistiku svoje igre, kliknite na dugme "Podijeli".
+
+    </string>
+</resources>

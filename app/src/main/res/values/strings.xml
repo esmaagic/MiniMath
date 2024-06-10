@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MiniMath</string>
+    <string name="round">Round: %d</string>
+    <string name="score">Score: %d</string>
+    <string name="restart">Restart </string>
+    <string name="play_again">Next round </string>
+    <string name="timer">Time:  %d s</string>
+    <string name="game_stats">Game stats</string>
+    <string name="answer">Answer</string>
+    <string name="start_game">Start game</string>
+    <string name="game_rules">Game rules</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="new_game_stats">Game stats</string>
+    <string name="game_rules_text">When you click on "Start game" you will be navigatet to the Game screen. You will be shown two numbers with an accoring mathematical operation. A timer will start immediately and will not stop untill you give the rigth answer. Once you give the right answer the timer will stop. At this point you can continue playing by clicking on "Next round" or you can start again by clicking "Restart". In order to share your game stats click on the share button.
+
+
+    </string>
+</resources>
