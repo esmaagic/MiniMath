@@ -42,7 +42,8 @@ Korisniku je prikazan **layout** igre.
   - Dugmić **"Igraj ponovo"**: svi dosadašnji podaci o igri se brišu i igra se igra ispočetka.
 
 
-![correct](https://github.com/esmaagic/MiniMath/assets/108765837/4beb5f62-19f0-4445-a45e-4699efe67517)
+![correct](https://github.com/esmaagic/MiniMath/assets/108765837/44216dfe-682d-4d3e-bc20-7c583ab43085)
+
 
 
 
