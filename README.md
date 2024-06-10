@@ -151,7 +151,7 @@ Definiraju strukturu i raspored elemenata korisničkog sučelja u aktivnosti ili
 ### Resursi (Resources)
 Statički podaci kao što su slike, nizovi, boje, nacrti i stringovi koji se koriste u aplikaciji.
 
-### Internaizacija (Internationalization)
+### Internacionalizacija (Internationalization)
 Proces prilagodbe aplikacije za različite jezike i lokalizacije.
 
 ## Zaključak
