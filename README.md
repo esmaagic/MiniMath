@@ -44,6 +44,9 @@ Korisniku je prikazan **layout** igre.
 
 ![game](https://github.com/esmaagic/MiniMath/assets/108765837/cf2efd18-b44c-4124-a859-100d6a48c664)
 
+
+![landscape](https://github.com/esmaagic/MiniMath/assets/108765837/4a4302af-8ca3-4672-8386-9b3815725521)
+
 ## Opis arhitekture aplikacije
 
 Aplikacija je razvijena koristeći Kotlin programski jezik i Jetpack Compose za izradu korisničkog sučelja. Arhitektura aplikacije slijedi Model-View-ViewModel (MVVM) arhitekturni obrazac. Glavni dijelovi arhitekture uključuju:
