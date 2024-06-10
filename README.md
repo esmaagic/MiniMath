@@ -1,5 +1,4 @@
-# Dokumentacija za aplikaciju Zbrajalica
-
+# Dokumentacija
 ## Opis rada aplikacije
 
 Aplikacija Zbrajalica je interaktivna edukativna igra za Android platformu koja ima za cilj poboljšati matematičke vještine kroz zabavno iskustvo. Korisnicima omogućuje da vježbaju zbrajanje i oduzimanje kroz seriju brzinskih izazova. Glavna funkcionalnost aplikacije je generiranje matematičkih izraza sa jednocifrenim brojevima, na koje korisnici trebaju odgovoriti.
