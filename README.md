@@ -51,7 +51,7 @@ Korisniku je prikazan **layout** igre.
 
 ## Opis arhitekture aplikacije
 
-Aplikacija je razvijena koristeći Kotlin programski jezik i Jetpack Compose za izradu korisničkog sučelja. Arhitektura aplikacije slijedi Model-View-ViewModel (MVVM) arhitekturni obrazac. Glavni dijelovi arhitekture uključuju:
+Aplikacija je razvijena koristeći Kotlin programski jezik i Jetpack Compose za izradu korisničkog layout-a. Arhitektura aplikacije slijedi Model-View-ViewModel (MVVM) arhitekturni obrazac. Glavni dijelovi arhitekture uključuju:
 
 - **Model**: 
   - Predstavljen klasom `GameUiState` koja sadrži podatke o trenutnom stanju igre, uključujući brojeve za zbrajanje, operaciju, korisnički odgovor, trenutno vrijeme, rezultat itd.
@@ -139,7 +139,7 @@ Ova funkcija omogućuje korisnicima da podijele svoje rezultate igre s drugima p
 ## Opis opštih koncepata Android frameworka
 
 ### Aktivnost (Activity)
-Predstavlja jedan zaslon korisničkog sučelja s kojim korisnici mogu interaktivno komunicirati.
+Predstavlja jedan zaslon korisničkog layout-a s kojim korisnici mogu interaktivno komunicirati.
 
 ### Životni ciklus (Lifecycle)
 Definira različite faze u životnom vijeku aktivnosti, od stvaranja do uništenja, omogućujući programerima da upravljaju resursima i ponašanjem aplikacije.
